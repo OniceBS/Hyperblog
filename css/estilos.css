@@ -6,6 +6,7 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: rgb(212, 239, 255);
 }
 
 #container
@@ -13,7 +14,7 @@ body
     width: 70%;
     padding: 0em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgba(255, 255, 255, 0);
     margin: 0 auto;
 }
 
@@ -42,5 +43,5 @@ body
 #post
 {
     padding: 1em;
-
+    background-color: rgb(169, 242, 245);
 }
